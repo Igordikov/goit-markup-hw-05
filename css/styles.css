@@ -626,6 +626,8 @@ border: none;
 display: flex;
 gap: 16px;
 cursor: pointer;
+justify-content: center; 
+align-items: center;
 
 font-weight: 500;
 font-size: 16px;
@@ -633,6 +635,10 @@ line-height: 1.5;
 letter-spacing: 0.04em;
 text-align: center;
 color: #fff;
+}
+
+.icon-button-footer {
+  margin-left: 16px;
 }
 
 
