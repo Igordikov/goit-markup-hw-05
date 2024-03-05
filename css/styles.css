@@ -577,6 +577,10 @@ color: #fff;
   margin-left: 80px;
 }
 
+.footer-form {
+  display: flex;
+}
+
 .footer-form-text {
  margin-bottom: 16px;
 font-weight: 500;
